@@ -1,0 +1,9 @@
+
+ˆ
+java:S1319O"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¤éú„þÿÿÿÿ
+€
+java:S1319S"jThe type of "calenderInfor" should be an interface such as "Map" rather than the implementation "HashMap".(¡ÎŽô
+k	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ÿˆèûÿÿÿÿ
+l	java:S116"WRename this field "id_generator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íú•ã
+h	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¡ìæÿÿÿÿÿ
+h	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ÿˆèûÿÿÿÿ

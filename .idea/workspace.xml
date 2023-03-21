@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7ef342f-b157-436f-b865-92412fb7f110" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/accounts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faucet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/faucet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/khoi.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/private.txt" beforeDir="false" afterPath="$PROJECT_DIR$/private.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/son.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soncr.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MutilSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MutilSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Signature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Signature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestConnectWallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestConnectWallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/DemoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/DemoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/DemoThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/DemoThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ContractClaim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ContractClaim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Tower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parameter/ChdIdParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parameter/ChdIdParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parameter/ChdLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parameter/ChdLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parameter/RequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parameter/RequestBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/DataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/DataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/RequestBodyCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/RequestBodyCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/BaseThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/BaseThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/BindWalletThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/BindWalletThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/FetchCHIDThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/FetchCHIDThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/FetchChestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/FetchChestThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/FetchIdThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/FetchIdThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/FetchRewardHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/FetchRewardHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/FetchWalletThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/FetchWalletThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/LoginThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/LoginThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/CredentialsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/CredentialsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/ExcelUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/RandomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/RandomUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/RequestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/RequestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Web3Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Web3Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Auto_send_matic" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="allinone" />
+                    <option name="lastUsedInstant" value="1679035876" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="Auto_send_matic" />
+                    <option name="lastUsedInstant" value="1679035875" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N7njoeq0Tqkq3vk3lyRqUo52O4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nhattien/Documents/crazydefense&quot;
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7ef342f-b157-436f-b865-92412fb7f110" name="Changes" comment="" />
+      <created>1679024126251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679024126251</updated>
+      <workItem from="1679024127853" duration="2470000" />
+      <workItem from="1679036979059" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/allinone" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

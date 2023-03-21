@@ -1,0 +1,79 @@
+
+p
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ°»Ü
+u
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌŞòÇûÿÿÿÿ
+u
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÖ§Äüÿÿÿÿ
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ˆïÊüÿÿÿÿ
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’üÊÔ
+D
+java:S1604¬"(Make this anonymous inner class a lambda(ÒÕîÿÿÿÿÿ
+D
+java:S1604Î"(Make this anonymous inner class a lambda(ßàâÉùÿÿÿÿ
+?
+java:S1604ğ"(Make this anonymous inner class a lambda(ÇÚâÕ
+?
+java:S1604’"(Make this anonymous inner class a lambda(âü
+n
+java:S1104‹"RMake _owner a static final constant or non-public and provide accessors if needed.(¯¡šØıÿÿÿÿ
+p
+java:S1104"TMake _spender a static final constant or non-public and provide accessors if needed.(ü ²äûÿÿÿÿ
+n
+java:S1104"RMake _value a static final constant or non-public and provide accessors if needed.(‹Êı…ùÿÿÿÿ
+u
+java:S1104“"YMake previousOwner a static final constant or non-public and provide accessors if needed.(º¦Úüÿÿÿÿ
+p
+java:S1104•"TMake newOwner a static final constant or non-public and provide accessors if needed.(æŒ…Şşÿÿÿÿ
+m
+java:S1104™"QMake _from a static final constant or non-public and provide accessors if needed.(‘¡˜‘ÿÿÿÿÿ
+k
+java:S1104›"OMake _to a static final constant or non-public and provide accessors if needed.(ü¾¥Ÿüÿÿÿÿ
+n
+java:S1104"RMake _value a static final constant or non-public and provide accessors if needed.(‹Êı…ùÿÿÿÿ
+o
+java:S1104¡"SMake account a static final constant or non-public and provide accessors if needed.(½íúÿÿÿÿ
+h
+java:S1104£"QMake value a static final constant or non-public and provide accessors if needed.(ŸÔ±
+W	java:S107ù"<Method has 8 parameters, which is greater than 7 authorized.(å»ß÷üÿÿÿÿ
+R	java:S107‚"<Method has 8 parameters, which is greater than 7 authorized.(ú‰ä‰
+7
+java:S1116v"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116|"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116ƒ"Remove this empty statement.(Åñ­õşÿÿÿÿ
+8
+java:S1116‰"Remove this empty statement.(Åñ­õşÿÿÿÿ
+L
+java:S1133Œ"5Do not forget to remove this deprecated code someday.(í àË
+?
+java:S1123Œ"(Add the missing @deprecated Javadoc tag.(í àË
+Q
+java:S1133•"5Do not forget to remove this deprecated code someday.(ñéÄŞúÿÿÿÿ
+D
+java:S1123•"(Add the missing @deprecated Javadoc tag.(ñéÄŞúÿÿÿÿ
+i	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êø§Ûùÿÿÿÿ
+L
+java:S1133×"5Do not forget to remove this deprecated code someday.(¦…‚Ä
+?
+java:S1123×"(Add the missing @deprecated Javadoc tag.(¦…‚Ä
+Q
+java:S1133Ü"5Do not forget to remove this deprecated code someday.(“¾ğˆüÿÿÿÿ
+D
+java:S1123Ü"(Add the missing @deprecated Javadoc tag.(“¾ğˆüÿÿÿÿ
+Q
+java:S1133ù"5Do not forget to remove this deprecated code someday.(å»ß÷üÿÿÿÿ
+D
+java:S1123ù"(Add the missing @deprecated Javadoc tag.(å»ß÷üÿÿÿÿ
+L
+java:S1133‚"5Do not forget to remove this deprecated code someday.(ú‰ä‰
+?
+java:S1123‚"(Add the missing @deprecated Javadoc tag.(ú‰ä‰
+l	java:S116‹"QRename this field "_owner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¡šØıÿÿÿÿ
+n	java:S116"SRename this field "_spender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü ²äûÿÿÿÿ
+l	java:S116"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Êı…ùÿÿÿÿ
+k	java:S116™"PRename this field "_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¡˜‘ÿÿÿÿÿ
+i	java:S116›"NRename this field "_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¾¥Ÿüÿÿÿÿ
+l	java:S116"QRename this field "_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Êı…ùÿÿÿÿ

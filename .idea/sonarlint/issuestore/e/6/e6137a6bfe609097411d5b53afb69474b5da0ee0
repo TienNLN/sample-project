@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+V	java:S125"<This block of commented-out lines of code should be removed.(ŽŠß€ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£ºÆ¬øÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(ä¬Žðÿÿÿÿÿ
+J
+java:S2200."/Only the sign of the result should be examined.(·Ç•Üüÿÿÿÿ
+<
+java:S2111."!Use "BigDecimal.valueOf" instead.(·Ç•Üüÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¦‰öåùÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ßÄãÇýÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ë¨§š
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Œ©ë

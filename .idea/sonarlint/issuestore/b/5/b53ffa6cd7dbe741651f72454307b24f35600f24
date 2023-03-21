@@ -1,0 +1,24 @@
+
+p
+java:S1104"UMake DATA_FILE a static final constant or non-public and provide accessors if needed.(í®°şÿÿÿÿ
+J
+java:S1444"/Make this "public static DATA_FILE" field final(í®°şÿÿÿÿ
+c
+java:S2095'"HUse try-with-resources or close this "FileReader" in a "finally" clause.(æ“¼Øúÿÿÿÿ
+o
+java:S3008"TRename this field "DATA_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í®°şÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‡ÛŸÚıÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(”É½Ï
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦Üšõ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Šùíh
+C	java:S108")Either remove or fill this block of code.(íÕŒ¦øÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¦Ëö™şÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÿƒŒØ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(é½Ò®ûÿÿÿÿ
+\	java:S899c"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+@
+java:S1481j"*Remove this unused "count" local variable.(æÕ¿¼

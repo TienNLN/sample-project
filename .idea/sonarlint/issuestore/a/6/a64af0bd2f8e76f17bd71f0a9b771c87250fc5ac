@@ -1,0 +1,19 @@
+
+ƒ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(®×µ
+ˆ
+java:S1319*"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(î¬“…ıÿÿÿÿ
+…
+java:S1319*"jThe type of "calenderInfor" should be an interface such as "Map" rather than the implementation "HashMap".(î¬“…ıÿÿÿÿ
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "map".(‚æ¾¸ÿÿÿÿÿ
+}
+java:S1488!"gImmediately return this expression instead of assigning it to the temporary variable "calenderRewards".(¤®Ã
+
+java:S1488&"fImmediately return this expression instead of assigning it to the temporary variable "calenderReward".(¼¦õ‘ıÿÿÿÿ
+}
+java:S1488+"gImmediately return this expression instead of assigning it to the temporary variable "calenderRewards".(ÿ…‰‘
+K
+java:S1143"5Remove this return statement from this finally block.(¢Ş¬ˆ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(§Á¡Œ

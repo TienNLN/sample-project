@@ -1,0 +1,9 @@
+
+Y
+java:S4973$"<Strings and Boxed types should be compared using "equals()".(ğˆË8Şàøòî0
+{
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8éàøòî0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù…ëĞ8éàøòî0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8êàøòî0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ê®ØÙ8ëàøòî0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ëàøòî0
